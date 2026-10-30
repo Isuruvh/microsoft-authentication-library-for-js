@@ -9,7 +9,7 @@
     },
     "dependencies": {
         "@azure/msal-browser": "^5.0.0",
-        "@azure/msal-node": "^5.0.0",
+        "@azure/msal-node": "^7.1.2",
         "body-parser": "^1.20.3",
         "cookie-parser": "^1.4.4",
         "debug": "^2.6.9",
@@ -18,7 +18,7 @@
         "express-session": "^1.17.2",
         "hbs": "^4.0.4",
         "http-errors": "~1.6.3",
-        "morgan": "~1.9.1"
+        "morgan": "~1.12.1"
     },
     "devDependencies": {
         "nodemon": "^3.1.11"
