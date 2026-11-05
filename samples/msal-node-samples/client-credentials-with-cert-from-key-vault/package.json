@@ -17,7 +17,7 @@
         "dotenv": "^16.5.0"
     },
     "devDependencies": {
-        "@azure/identity": "^4.13.1",
+        "@azure/identity": "^4.2.1",
         "@types/jest": "^29.5.0",
         "e2e-test-utils": "file:../../e2eTestUtils",
         "jest": "^29.5.0",
